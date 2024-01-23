@@ -6,7 +6,7 @@ include_once("Controlador.php");
 
 /* *******************************************************************************************
  
- * CLASE ControladorCaracteristicashola
+ * CLASE ControladorCaracteristicasq2
 
  * ***************************************************************************************** */
 
